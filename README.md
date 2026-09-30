@@ -26,6 +26,9 @@ WEB COFFEE/
 │   └── pesan.html                # Halaman form pemesanan
 │
 └── README.md                     # Dokumentasi proyek
+```
+
+---
 
 ## 🛠️ Teknologi yang Digunakan
 HTML5: Struktur halaman web dan form.

@@ -27,8 +27,6 @@ WEB COFFEE/
 │
 └── README.md                     # Dokumentasi proyek
 
----
-
 ## 🛠️ Teknologi yang Digunakan
 HTML5: Struktur halaman web dan form.
 

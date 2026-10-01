@@ -50,4 +50,4 @@ Masuk ke folder html/ lalu buka file Coffee & Crust Cafe.html menggunakan browse
 
 ## 📝 Lisensi
 Proyek ini dibuat untuk keperluan pembelajaran dan pengembangan web sederhana.
-Made By Thierry
+Made By Thierry.
